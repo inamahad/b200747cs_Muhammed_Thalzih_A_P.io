@@ -1,0 +1,6 @@
+# Web_Application
+ 1) A Multi-page responsive which can be used to create user Ids (registration purpose)  for the hackathon code.init () .
+ 2) This  website contain three part  a  Home page,registration page , Contact page.
+ 3)Home page : has countdown timer and also a three link right upper part and also has participation link
+ 4)Registration page : which can be used to register a user .Also added the  constraints using javascript (except registration successful notification box) .if input is invalid it will a show red alert on that particular box.green signal is used to indicate the correct and valid input .(Refresh the page if it didn't work).
+ 5)Contact page : shows address and informations of CSEA also three links in the bottom (facebook profile , official website , linkedin website of CSEA NITC)
